@@ -795,10 +795,14 @@
                 margin-top: 29px;
                 .pic {
                     display: flex;
+                    width: 330px;
+                    height: 231.06991577148438px;
+                    box-shadow: 0px 7.5px 20.83px -6.25px #192A5933;
                     img {
                         width: 330px;
                         height: 231.06991577148438px;
                         border-radius: 4px;
+                        box-shadow: 0px 7.5px 20.83px -6.25px #192A5933;
                     }
                 }
                 .inf {
