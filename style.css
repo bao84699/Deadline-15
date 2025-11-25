@@ -305,7 +305,7 @@ body {
                 margin-bottom: 24px;
             }
             .box {
-                width: 105%;
+                width: 100%;
                 display: flex;
                 flex-direction: column;
                 gap: 32px;
