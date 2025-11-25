@@ -266,8 +266,11 @@
             flex-direction: row;
             flex-wrap: wrap;
             justify-content: center;
+            align-items: center;
             gap: 19px;
             width: 95%;
+            max-width: 1180px;
+            margin: 0 auto;
             .left {
                 width: 580px;
                 .button {
@@ -383,7 +386,9 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            width: 100%;
+            width: 95%;
+            max-width: 1180px;
+            margin: 0 auto;
             row-gap: 30px;
             column-gap: 26px;
             .left {
