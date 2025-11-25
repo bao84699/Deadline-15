@@ -399,6 +399,7 @@ body {
             background-size: cover;
             padding: 40px;
             box-sizing: border-box;
+            border-radius: 4px;
             .title {
                 color: #FFFFFF;
                 font-weight: 600;
@@ -534,6 +535,7 @@ body {
                     color: #FFFFFF;
                     border: none;
                     cursor: pointer;
+                    margin-top: 7px;
                 }
             }
         }
