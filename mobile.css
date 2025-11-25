@@ -1147,6 +1147,7 @@
                     font-weight: 600;
                     font-size: 28px;
                     line-height: 34px;
+                    margin-bottom: 14px;
                 }
                 .discript {
                     color: #C9C9C9;
@@ -1277,6 +1278,7 @@
                 .form {
                     display: flex;
                     flex-direction: column;
+                    margin-top: 17px;
                     .item {
                         display: flex;
                         justify-content: space-between;
@@ -1381,7 +1383,7 @@
                     font-size: 24px;
                     line-height: 28px;
                     color: #24AB70;
-                    margin-top: 26px;
+                    margin-top: 28px;
                     margin-bottom: 14px;
                 }
             }
